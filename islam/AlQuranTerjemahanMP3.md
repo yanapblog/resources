@@ -1,3 +1,4 @@
+```
 wget -c https://archive.org/download/MurottalDanTerjemahanAlQuran-SyaikhMasyiriAlAfasi/001AlFaatihah-MurottalDanTerjemahanAlQuran.mp3 --no-check-certificate 
 688.5 KB 
 wget -c https://archive.org/download/MurottalDanTerjemahanAlQuran-SyaikhMasyiriAlAfasi/002AlBaqarah-MurottalDanTerjemahanAlQuran.mp3 --no-check-certificate 
@@ -226,4 +227,4 @@ wget -c https://archive.org/download/MurottalDanTerjemahanAlQuran-SyaikhMasyiriA
 444.4 KB 
 wget -c https://archive.org/download/MurottalDanTerjemahanAlQuran-SyaikhMasyiriAlAfasi/114An-naas-MurottalDanTerjemahanAlQuran.mp3 --no-check-certificate 
 516.7 KB 
-
+```
